@@ -41,6 +41,3 @@
 
 ---
 
-### 🔗 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/bhavya-gupta-901b28333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://github.com/Bhavy12-cell)
